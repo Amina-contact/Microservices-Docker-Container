@@ -8,4 +8,5 @@ Mise en oeuvre d'une application distribuée basée sur deux micro-services en u
   - Communication entre micro-services en utilisant OpenFeign
   - Spring Cloud Gateway
   - Eureka Discovery Service
+<br>
 Déployer des microservices de démarrage à ressort dans un conteneur docker, et orchestrer ce conteneur docker à l'aide de docker compose pour exécuter plusieurs microservices sur un seul réseau, principalement pour permettre des communications de service à service.
